@@ -9,6 +9,8 @@
 
 **Type:** Miscellaneous / Brainf\*ck / Code Golf
 
+**Points:** 127
+
 **Author:** dfoo
 
 **File:** [chall.py](/bf%20jail/chall.py)
