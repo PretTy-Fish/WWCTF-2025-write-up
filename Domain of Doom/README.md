@@ -1,14 +1,17 @@
-# bf jail write-up (WWCTF 2025)
+# Domain of Doom write-up (WWCTF 2025)
 
-**Name:** bf jail
+**Name:** Domain of Doom
 
-**Description:** Jail but with my best friend? That doesn't sound too bad. Oh wait...
+**Description:** You're querying domains, but some lead to dangerous places
+- The flag is hidden in an environment variable.
 
-**Type:** Miscellaneous / Brainf\*ck / Code Golf
+**Type:** Web Exploitation
 
-**Points:** 127
+**Difficulty:** ~Medium~ Easy
 
-**Author:** dfoo
+**Points:** 100
+
+**Author:** dxler
 
 **File:** [Domain_of_Doom.zip (unzipped)](/Domain%20of%20Doom/Domain%20of%20Doom)
 
