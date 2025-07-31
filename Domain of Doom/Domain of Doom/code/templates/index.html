@@ -1,0 +1,31 @@
+{% extends "layout.html" %}
+
+{% block title %}Home - MyCorp{% endblock %}
+
+{% block content %}
+{% if flag %}
+    <div class="alert alert-success" role="alert">
+        {{ flag }}
+    </div>
+{% endif %}
+<div class="hero">
+    <h1>Welcome to MyCorp</h1>
+    <p>Your trusted partner in innovative solutions.</p>
+    <a href="{{ url_for('about') }}" class="btn btn-primary">Learn More</a>
+</div>
+
+<div class="features">
+    <div class="feature">
+        <h2>Innovation</h2>
+        <p>We are constantly pushing the boundaries of what's possible.</p>
+    </div>
+    <div class="feature">
+        <h2>Integrity</h2>
+        <p>We believe in honest and transparent business practices.</p>
+    </div>
+    <div class="feature">
+        <h2>Excellence</h2>
+        <p>We strive for the highest quality in everything we do.</p>
+    </div>
+</div>
+{% endblock %}
