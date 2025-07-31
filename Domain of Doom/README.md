@@ -13,7 +13,7 @@
 
 **Author:** dxler
 
-**File:** [Domain_of_Doom.zip (unzipped)](/Domain%20of%20Doom/Domain%20of%20Doom)
+**Files:** [Domain_of_Doom.zip (unzipped)](/Domain%20of%20Doom/Domain%20of%20Doom)
 
 ## Analysis
 
