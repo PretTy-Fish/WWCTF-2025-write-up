@@ -29,9 +29,15 @@ def flag():
 ## Solution
 
 Visit `https://instance_hash_here.chall.wwctf.com/flag`:
-![](/Domain%20of%20Doom/flag.png)
+![flag.png](/Domain%20of%20Doom/flag.png)
 **Flag:** `wwf{CommAnd_lnj3cti0n_1s_c0ol}`
 
-## Afterthought
+---
+<details>
+<summary>Afterthought</summary>
 
-The author said this could be cheesed. For a proper solution, check out other's Domain of Doom Revenge write-ups.
+![annoucement.png](/Domain%20of%20Doom/annoucement.png)
+
+For a proper solution, check out other's Domain of Doom Revenge write-ups.
+
+</details>
