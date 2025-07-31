@@ -17,4 +17,21 @@
 
 ## Analysis
 
-WIP
+Have a look at [app.py](/Domain%20of%20Doom/Domain%20of%20Doom/code/app.py):
+```python
+@app.route('/flag')
+def flag():
+    flag = os.environ.get('FLAG', 'WWF{placeholder_flag}')
+    return render_template('index.html', flag=flag)
+```
+...wut?
+
+## Solution
+
+Visit `https://instance_hash_here.chall.wwctf.com/flag`:
+![](/Domain%20of%20Doom/flag.png)
+**Flag:** `wwf{CommAnd_lnj3cti0n_1s_c0ol}`
+
+## Afterthought
+
+The author said this could be cheesed. For a proper solution, check out other's Domain of Doom Revenge write-ups.
