@@ -32,6 +32,8 @@ Visit `https://instance_hash_here.chall.wwctf.com/flag`:
 ![flag.png](/Domain%20of%20Doom/flag.png)
 **Flag:** `wwf{CommAnd_lnj3cti0n_1s_c0ol}`
 
+~Command inj3ct-sh1t~
+
 ---
 <details>
 <summary>Afterthought</summary>
