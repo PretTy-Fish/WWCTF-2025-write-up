@@ -4,7 +4,7 @@
 
 **Description:** My friend told me there are some interesting properties of base64...
 
-**Type:** Cryptography
+**Type:** Steganography
 
 **Difficulty:** Beginner
 
