@@ -2,7 +2,7 @@
 
 **Name:** Based 64
 
-**Description:** My friend told me there are some interesting properties of base64...
+**Description:** My friend told me base64 has some interesting properties...
 
 **Type:** Steganography
 
