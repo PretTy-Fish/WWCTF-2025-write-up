@@ -36,10 +36,10 @@ Visit `https://instance_hash_here.chall.wwctf.com/flag`:
 
 ---
 <details>
-<summary>Afterthought</summary>
+<summary>Afterword</summary>
 
 ![annoucement.png](/Domain%20of%20Doom/annoucement.png)
 
-For a proper solution, check out other's Domain of Doom Revenge write-ups.
+For a proper solution, check out others' Domain of Doom Revenge write-ups.
 
 </details>
