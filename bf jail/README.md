@@ -176,12 +176,12 @@ bruh
 
 As the author @dfoo said in the Discord chat, the uploaded version of the challenge was unfortunately the wrong version. The correct version should also blacklist `,` and certain keywords, forcing the players to golf `import os;os.system('sh')` in brainf\*ck. I feel a bit sorry about this, but hey, that's all the fun isn't it? 😉
 
-As [@maximxlss](https://github.com/maximxlss) pointed out, the idea in [stage 1](#1-input) will work with some simple nested brackets
+As [@maximxlss](https://github.com/maximxlss) pointed out, the idea in [stage 1](#1-input) will work with some simple nested brackets:
 ```brainfuck
 +[,[.>]<]
 ```
 This ended up even shorter than my final solution, and really captures the original spirit of the challenge even in this wrong version. I greatly appreciate the simplicity of this solution, so I relayed it here.
 
-That being said, my monke brain would not have worked that out during the event tho. 🤪
+That being said, my monke brain would not have worked that out during the event 🤪
 </details>
 </details>
