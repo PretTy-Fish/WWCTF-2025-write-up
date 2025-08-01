@@ -57,3 +57,7 @@ flag = ''.join([chr(pads[2*n] * 16 + pads[2*n+1]) for n in range(len(pads)//2)])
 print(flag)
 ```
 **Flag:** `wwf{unUs3d_b1ts_3qu4lz_st3g0_fun}`
+
+## Afterword
+
+I had a look at [@Joshni86's write-up](https://github.com/Joshni86/Based-64) and realized that the intended hint is [Gynvael Coldwind's tutorial on base64](https://hexarcana.ch/b/2024-08-16-base64-beyond-encoding/). My independent googling worked out for me, but this would complete the picture, so I added it here.
