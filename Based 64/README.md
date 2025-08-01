@@ -56,4 +56,4 @@ with open("based64.txt") as f:
 flag = ''.join([chr(pads[2*n] * 16 + pads[2*n+1]) for n in range(len(pads)//2)])
 print(flag)
 ```
-**Flag: ** `wwf{unUs3d_b1ts_3qu4lz_st3g0_fun}`
+**Flag:** `wwf{unUs3d_b1ts_3qu4lz_st3g0_fun}`
