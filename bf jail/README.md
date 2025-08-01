@@ -172,7 +172,7 @@ bruh
 
 ---
 <details>
-<summary>Afterthought</summary>
+<summary>Afterword</summary>
 
 As the author @dfoo said in the Discord chat, the uploaded version of the challenge was unfortunately the wrong version. The correct version should also blacklist `,` and certain keywords, forcing the players to golf `import os;os.system('sh')` in brainf\*ck. I feel a bit sorry about this, but hey, that's all the fun isn't it? 😉
 
