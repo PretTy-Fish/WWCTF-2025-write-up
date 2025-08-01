@@ -180,7 +180,7 @@ As [@maximxlss](https://github.com/maximxlss) pointed out, the idea in [stage 1]
 ```brainfuck
 +[,[.>]<]
 ```
-This ended up even shorter than my final solution, and really captures the original spirit of the challenge even in this wrong version. I greatly appreciate the simplicity of this solution, so I relayed it here.
+This ended up even shorter than my final solution, and really captures the original spirit of the challenge even in this wrong version. I greatly appreciate the elegance of this solution, so I relayed it here.
 
 That being said, my monke brain would not have worked that out during the event 🤪
 </details>
