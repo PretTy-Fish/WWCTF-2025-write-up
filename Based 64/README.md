@@ -10,7 +10,7 @@
 
 **Points:** 100
 
-**Author:** 
+**Author:** dfoo
 
 **Files:** [based64.txt](/Based%2064/based64.txt)
 
