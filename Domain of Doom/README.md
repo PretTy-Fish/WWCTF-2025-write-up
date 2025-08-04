@@ -2,8 +2,9 @@
 
 **Name:** Domain of Doom
 
-**Description:** You're querying domains, but some lead to dangerous places
-- The flag is hidden in an environment variable.
+**Description:**
+> You're querying domains, but some lead to dangerous places
+> - The flag is hidden in an environment variable.
 
 **Type:** Web Exploitation
 
