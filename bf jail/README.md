@@ -5,7 +5,8 @@
 
 **Name:** bf jail
 
-**Description:** Jail but with my best friend? That doesn't sound too bad. Oh wait...
+**Description:**
+> Jail but with my best friend? That doesn't sound too bad. Oh wait...
 
 **Type:** Miscellaneous / Brainf\*ck / Code Golf
 
